@@ -1,4 +1,4 @@
-# LL1Compiler
+# LL1 Recognizer
 
 This project has two parts:
 
